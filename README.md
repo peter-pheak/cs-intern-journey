@@ -1,2 +1,2 @@
 # cs-intern-journey
-This repository is for my GitHub practices
+Tracking my CS internship skills with Python projects
