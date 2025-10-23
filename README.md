@@ -11,7 +11,7 @@ Tracking my journey to master Python for remote CS internships. This repo showca
 
 ## Contributions
 
-- [First PR][https://github.com/peter-pheak/TodoList-Using-Python-beginner] - Added file I/O to store tasks in file.
+- [First PR][https://github.com/nitishkumar-IT/TodoList-Using-Python-beginner/compare/main...peter-pheak:TodoList-Using-Python-beginner:main] - Added file I/O to store tasks in file.
 ## Quick Start
 
 ```bash
