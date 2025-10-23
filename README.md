@@ -9,6 +9,9 @@ Tracking my journey to master Python for remote CS internships. This repo showca
 | [day_1.py](day_1.py) | Basic calculator with error handling    | Python          | ✅ Complete |
 | [todo_list.py](todo_list.py) | Interactive to-do app with menu         | Python, file I/O | ✅ Complete |
 
+## Contributions
+
+- [First PR]([https://github.com/peter-pheak/TodoList-Using-Python-beginner]) - Added file I/O to store tasks in file.
 ## Quick Start
 
 ```bash
