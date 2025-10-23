@@ -1,4 +1,4 @@
-# CS Intern Journey 🚀
+# CS Intern Journey
 
 Tracking my journey to master Python for remote CS internships. This repo showcases my progress with hands-on projects.
 
@@ -6,18 +6,20 @@ Tracking my journey to master Python for remote CS internships. This repo showca
 
 | Project         | Description                              | Tech Used       | Status |
 |-----------------|------------------------------------------|-----------------|--------|
-| [day_1.py](day_1.py) | Basic calculator with error handling    | Python          | ✅ Complete |
-| [todo_list.py](todo_list.py) | Interactive to-do app with menu         | Python, file I/O | ✅ Complete |
+| [day_1.py](day_1.py) | Basic calculator with error handling    | Python          | Complete |
+| [todo_list.py](todo_list.py) | Interactive to-do app with menu         | Python, file I/O | Complete |
 
 ## Contributions
 
-- [First PR][https://github.com/nitishkumar-IT/TodoList-Using-Python-beginner/compare/main...peter-pheak:TodoList-Using-Python-beginner:main] - Added file I/O to store tasks in file.
+- [First PR](https://github.com/nitishkumar-IT/TodoList-Using-Python-beginner/pulls?q=is%3Apr+is%3Aclosed) – Added file I/O to store tasks in `tasks.txt`.
+
 ## Quick Start
 
 ```bash
 git clone https://github.com/peter-pheak/cs-intern-journey.git
 cd cs-intern-journey
 python todo_list.py
+
 Learning Journey
 
 Week 1: Python basics, loops, Git branching
@@ -31,4 +33,3 @@ Tech Stack
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
 Contact
 Open to remote CS internships! Connect with me on LinkedIn.
-Built with ❤️ for remote work
